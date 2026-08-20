@@ -1,0 +1,8 @@
+Engineering knowledge: simply supported beam with a central point load.
+
+For a rectangular beam with width b, height h, span L, and central point load P:
+Maximum bending moment M_max = P*L/4.
+Maximum bending stress sigma_max = 6*M_max/(b*h^2).
+
+Use SI units: P in newtons, L/b/h in metres, stress in pascals.
+The allowable stress is a design constraint. A calculated stress at or below the allowable stress passes the stress constraint.

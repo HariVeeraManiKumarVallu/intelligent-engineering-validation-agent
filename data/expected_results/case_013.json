@@ -1,0 +1,5 @@
+{
+  "case_id": "CASE_013",
+  "stress_pa": 30000000.0,
+  "expected_valid": true
+}

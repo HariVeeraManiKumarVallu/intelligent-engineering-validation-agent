@@ -1,0 +1,7 @@
+Validation rules for this prototype.
+
+1. Load, length, width, and height must be positive.
+2. Calculated bending stress must be positive for positive load and dimensions.
+3. Calculated stress must not exceed the supplied allowable stress.
+4. Python/PyTorch analysis and independent C++ validation should agree within 0.01% relative tolerance.
+5. A result with a failed safety or consistency check cannot be marked VALID.

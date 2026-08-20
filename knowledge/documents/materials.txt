@@ -1,0 +1,7 @@
+Engineering knowledge: illustrative allowable stresses for this prototype.
+
+Steel: 250 MPa
+Aluminum: 150 MPa
+These values are simplified prototype assumptions for software evaluation and are not design guidance for real structures.
+
+The project uses these values only to test data processing, retrieval, numerical analysis, validation, and consistency checking.

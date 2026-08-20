@@ -1,0 +1,9 @@
+{
+  "case_id": "CASE_002",
+  "material": "aluminum",
+  "load_n": 1250,
+  "length_m": 1.75,
+  "width_m": 0.045,
+  "height_m": 0.09,
+  "allowable_stress_pa": 150000000.0
+}

@@ -1,0 +1,9 @@
+{
+  "case_id": "CASE_015",
+  "material": "steel",
+  "load_n": 4500,
+  "length_m": 2.5,
+  "width_m": 0.05,
+  "height_m": 0.12,
+  "allowable_stress_pa": 250000000.0
+}
